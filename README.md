@@ -51,6 +51,7 @@ admin.site.register(Loan,loanAdmin)
 
 
 
+
 ## OUTPUT
 ![alt text](<Screenshot (1).png>)
 
