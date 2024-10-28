@@ -23,6 +23,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
+```
 models.py
 
 
@@ -46,6 +47,7 @@ Admin.py
 from django.contrib import admin
 from.models import Loan,LoanAdmin
 admin.site.register(Loan,loanAdmin)
+```
 
 
 
